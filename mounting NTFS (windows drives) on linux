@@ -1,0 +1,1 @@
+ive had an issue where a storage drive that is plugged into my PC sometimes mounts and other times it doesnt presenting me with the error "error mounting /dev/sdc2 at run/media/"user"/"drive name" wrong fs type, bad option, bad superblock on /dev/sdc2
